@@ -70,7 +70,7 @@ a {
 }
 
 a:hover {
-  color: #ff5252;
+  color: #aaaaaa;
 }
 
 p {
@@ -112,7 +112,7 @@ img {
 }
 
 .loader .loading .aloader {
-  background: #FF5E13;
+  background: #b8b8b8;
 }
 
 /* ------------------------------
@@ -120,7 +120,7 @@ img {
 ---------------------------------*/
 .button {
   padding: 12px 30px;
-  background: #FF5E13;
+  background: #999999;
   color: #fff;
   font-size: 13px;
   letter-spacing: 1px;
@@ -137,7 +137,7 @@ img {
 }
 
 .button2 {
-  background: #FF5E13;
+  background: #999999;
 }
 
 .button2:hover {
@@ -190,7 +190,7 @@ img {
   font-weight: 500;
 }
 .navbar .navbar-nav li a:hover {
-  color: #FF5E13;
+  color: #9e9e9e;
 }
 .navbar .navbar-nav li .button {
   color: #fff;
@@ -250,7 +250,7 @@ img {
   margin-right: 18px;
 }
 .intro .entry h4 {
-  color: #FF5E13;
+  color: #ffffff;
 }
 
 /* ------------------------------
@@ -299,45 +299,6 @@ img {
 }
 
 /* ------------------------------
-  testimonial
----------------------------------*/
-.testimonial {
-  background: #5a5a5a;
-  padding: 110px 0 130px;
-  text-align: center;
-}
-.testimonial i {
-  color: #FF5E13;
-  font-size: 90px;
-  text-align: center;
-  margin-bottom: 40px;
-}
-.testimonial .swiper-button-next, .testimonial .swiper-button-prev {
-  color: #FF5E13;
-}
-.testimonial .swiper-button-next::after, .testimonial .swiper-button-prev::after {
-  font-size: 30px;
-}
-
-.testimonial .swiper .content {
-  text-align: center;
-  padding: 0 25%;
-  color: #fff;
-}
-
-.testimonial .swiper .content span {
-  font-weight: 600;
-  font-size: 14px;
-  position: relative;
-  color: #ddd;
-}
-
-.testimonial .swiper .content h5 {
-  font-size: 16px;
-  color: #fff;
-}
-
-/* ------------------------------
   contact
 ---------------------------------*/
 .contact {
@@ -347,7 +308,7 @@ img {
 .contact i {
   height: 60px;
   width: 60px;
-  background: #FF5E13;
+  background: #858585;
   text-align: center;
   line-height: 60px;
   color: #fff;
@@ -360,31 +321,11 @@ img {
 }
 
 /* ------------------------------
-  footer
----------------------------------*/
-footer {
-  padding: 35px 0 35px;
-  font-size: 16px;
-  font-weight: 500;
-  background: #eaf2f1;
-}
-footer ul li {
-  display: inline-block;
-  margin-right: 10px;
-}
-footer ul li a i {
-  font-size: 25px;
-}
-footer .cp {
-  text-align: right;
-}
-
-/* ------------------------------
   responsive
 ---------------------------------*/
 @media (max-width: 991px) {
   .navbar .navbar-collapse {
-    background: #FF5E13;
+    background: #929292;
     padding: 30px;
   }
 
